@@ -3,15 +3,15 @@
 </a>
 <br>
 <a href="https://scholar.google.es/citations?user=oEyJUfcAAAAJ&hl=es&oi=ao">
-  <img align="left" alt="Alberto Cuadra | Google Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />
+  <img align="left" alt="Alberto Cuadra | Google Scholar" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />
 </a>
 <br>
 <a href="https://www.researchgate.net/profile/Alberto_Cuadra_Lara">
-  <img align="left" alt="Alberto Cuadra | ResearchGate" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png" />
+  <img align="left" alt="Alberto Cuadra | ResearchGate" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png" />
 </a>
 <br>
 <a href="https://orcid.org/0000-0001-8280-2426">
-  <img align="left" alt="Alberto Cuadra | ORCID iD" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+  <img align="left" alt="Alberto Cuadra | ORCID iD" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
 
 <br>
