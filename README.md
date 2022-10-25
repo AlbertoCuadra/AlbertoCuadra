@@ -10,8 +10,6 @@
 <a href="https://scholar.google.es/citations?user=oEyJUfcAAAAJ&hl=es&oi=ao">
   <img align="right" alt="Alberto Cuadra | Google Scholar" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />
 </a>
-
-<br>
 <br>
 <br>
 <br>
@@ -19,8 +17,5 @@
 <br>
 
 #### Top Repositories
-
 [![Combustion Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=AlbertoCuadra&repo=combustion_toolbox)](https://github.com/AlbertoCuadra/combustion_toolbox)
 [![Algo trading weighted strategy](https://github-readme-stats.vercel.app/api/pin/?username=AlbertoCuadra&repo=algo_trading_weighted_strategy)](https://github.com/AlbertoCuadra/algo_trading_weighted_strategy)
-
-
