@@ -1,5 +1,4 @@
-| [![Alberto Cuadra-Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoCuadra&show_icons=true&include_all_commits=true&hide_title=true&hide=contribs&hide_border=true&bg_color=ffffff&icon_color=2a9d8fff&title_color=2a9d8fff)](https://acuadralara.com/) | [![Alberto Cuadra-Lara's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoCuadra&layout=compact&theme=buefy&hide_border=true)](https://acuadralara.com/)
-| ------------- | ------------- |
+[![Alberto Cuadra-Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoCuadra&show_icons=true&include_all_commits=true&hide_title=true&hide=contribs&hide_border=true&bg_color=ffffff&icon_color=2a9d8fff&title_color=2a9d8fff)](https://acuadralara.com/)
 
 #### Top Repositories
 
