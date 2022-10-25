@@ -1,11 +1,11 @@
 &ensp;&ensp;<a href="https://scholar.google.es/citations?user=oEyJUfcAAAAJ&hl=es&oi=ao">
-  <img alt="Alberto Cuadra | Google Scholar" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />
+  <img alt="Alberto Cuadra | Google Scholar" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />
 </a>&nbsp;
 <a href="https://www.researchgate.net/profile/Alberto_Cuadra_Lara">
-  <img alt="Alberto Cuadra | ResearchGate" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png" />
+  <img alt="Alberto Cuadra | ResearchGate" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png" />
 </a>&nbsp;
 <a href="https://orcid.org/0000-0001-8280-2426">
-  <img alt="Alberto Cuadra | ORCID iD" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+  <img alt="Alberto Cuadra | ORCID iD" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
 <br>
 <a href="https://acuadralara.com/">
