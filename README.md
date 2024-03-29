@@ -9,5 +9,5 @@
 </a><br>
 [![Alberto Cuadra | Stats](https://github-readme-stats.vercel.app/api?username=AlbertoCuadra&show_icons=true&include_all_commits=true&hide_title=true&hide=contribs&hide_border=true&bg_color=ffffff&icon_color=2a9d8fff&title_color=2a9d8fff)](https://acuadralara.com/)
 #### Top Repositories
-[![Combustion Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=AlbertoCuadra&repo=combustion_toolbox)](https://github.com/AlbertoCuadra/combustion_toolbox)
+[![Combustion Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=CombustionToolbox&repo=combustion_toolbox)](https://github.com/CombustionToolbox/combustion_toolbox)
 [![Algo trading weighted strategy](https://github-readme-stats.vercel.app/api/pin/?username=AlbertoCuadra&repo=algo_trading_weighted_strategy)](https://github.com/AlbertoCuadra/algo_trading_weighted_strategy)
